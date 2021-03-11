@@ -4,3 +4,4 @@ for x in range(1, 54):
 x=input()
 y=len(x)
 print(y)
+print(x)
